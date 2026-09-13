@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no" />
+    <meta name="theme-color" content="#0d1117" />
+    <meta name="description" content="Learn every human bone name. Tap a bone in the 3D skeleton to see its label." />
+    <title>Osteo — Learn Every Human Bone</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="c3d"></canvas>
+
+      <header id="topbar">
+        <div id="logo">osteo<span>.</span></div>
+        <button id="btn-list" class="tb-btn" aria-label="Browse all bones">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="18" x2="14" y2="18"/></svg>
+        </button>
+        <button id="btn-search" class="tb-btn" aria-label="Search bones">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg>
+        </button>
+        <button id="btn-quiz" class="tb-btn" aria-label="Quiz mode">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11a3 3 0 1 1 5.9.7c-.2 1-1 1.5-1.6 2.2-.6.6-.8 1.2-.8 2.1"/><circle cx="12" cy="19" r="0.5" fill="currentColor"/><circle cx="12" cy="12" r="10"/></svg>
+        </button>
+      </header>
+
+      <div id="regionbar"></div>
+
+      <div id="hint">Tap any bone to learn its name</div>
+
+      <div id="label-layer">
+        <div id="label-line" hidden></div>
+        <div id="label-tag" hidden>
+          <span id="label-text"></span>
+        </div>
+      </div>
+
+      <div id="progress-pill">
+        <div id="progress-bar"></div>
+        <span id="progress-text">0 / 199</span>
+      </div>
+
+      <footer id="credit">Handaru Daniswara · © BodyParts3D CC BY-SA</footer>
+
+      <div id="view-controls">
+        <button id="btn-front" class="vc-btn" title="Front view">F</button>
+        <button id="btn-back" class="vc-btn" title="Back view">B</button>
+        <button id="btn-left-v" class="vc-btn" title="Left view">L</button>
+        <button id="btn-right-v" class="vc-btn" title="Right view">R</button>
+        <button id="btn-reset" class="vc-btn" title="Reset zoom">⟳</button>
+      </div>
+
+      <div id="loading">
+        <div class="bone-spin"></div>
+        <div id="loading-text">assembling skeleton…</div>
+      </div>
+
+      <nav id="sheet" class="hidden" aria-label="Bone details">
+        <div id="sheet-grip"></div>
+        <div id="sheet-content"></div>
+      </nav>
+
+      <div id="list-overlay" class="hidden">
+        <div id="list-head">
+          <input id="search-input" type="search" placeholder="Search 199 bones…" autocomplete="off" />
+          <button id="list-close">✕</button>
+        </div>
+        <div id="region-tabs"></div>
+        <div id="list-body"></div>
+      </div>
+
+      <div id="quiz-overlay" class="hidden">
+        <div id="quiz-head">
+          <button id="quiz-close">✕</button>
+          <div id="quiz-score">0 / 0</div>
+        </div>
+        <div id="quiz-prompt">Which bone is highlighted?</div>
+        <div id="quiz-choices"></div>
+        <div id="quiz-feedback"></div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

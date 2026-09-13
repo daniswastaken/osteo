@@ -1,0 +1,997 @@
+[
+ {
+  "id": 52734,
+  "name": "Frontal bone",
+  "region": "skull"
+ },
+ {
+  "id": 52789,
+  "name": "Left parietal bone",
+  "region": "skull"
+ },
+ {
+  "id": 52788,
+  "name": "Right parietal bone",
+  "region": "skull"
+ },
+ {
+  "id": 52739,
+  "name": "Left temporal bone",
+  "region": "skull"
+ },
+ {
+  "id": 52738,
+  "name": "Right temporal bone",
+  "region": "skull"
+ },
+ {
+  "id": 52735,
+  "name": "Occipital bone",
+  "region": "skull"
+ },
+ {
+  "id": 52736,
+  "name": "Sphenoid bone",
+  "region": "skull"
+ },
+ {
+  "id": 52740,
+  "name": "Ethmoid",
+  "region": "skull"
+ },
+ {
+  "id": 52893,
+  "name": "Left zygomatic bone",
+  "region": "skull"
+ },
+ {
+  "id": 52892,
+  "name": "Right zygomatic bone",
+  "region": "skull"
+ },
+ {
+  "id": 53648,
+  "name": "Left nasal bone",
+  "region": "skull"
+ },
+ {
+  "id": 53647,
+  "name": "Right nasal bone",
+  "region": "skull"
+ },
+ {
+  "id": 53646,
+  "name": "Left lacrimal bone",
+  "region": "skull"
+ },
+ {
+  "id": 53645,
+  "name": "Right lacrimal bone",
+  "region": "skull"
+ },
+ {
+  "id": 9710,
+  "name": "Vomer",
+  "region": "skull"
+ },
+ {
+  "id": 54738,
+  "name": "Left inferior nasal concha",
+  "region": "skull"
+ },
+ {
+  "id": 54737,
+  "name": "Right inferior nasal concha",
+  "region": "skull"
+ },
+ {
+  "id": 53650,
+  "name": "Left maxilla",
+  "region": "skull"
+ },
+ {
+  "id": 53649,
+  "name": "Right maxilla",
+  "region": "skull"
+ },
+ {
+  "id": 52748,
+  "name": "Mandible",
+  "region": "skull"
+ },
+ {
+  "id": 52749,
+  "name": "Hyoid bone",
+  "region": "skull"
+ },
+ {
+  "id": 12519,
+  "name": "Atlas",
+  "region": "spine"
+ },
+ {
+  "id": 12520,
+  "name": "Axis",
+  "region": "spine"
+ },
+ {
+  "id": 12521,
+  "name": "Third cervical vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 12522,
+  "name": "Fourth cervical vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 12523,
+  "name": "Fifth cervical vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 12524,
+  "name": "Sixth cervical vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 12525,
+  "name": "Seventh cervical vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 9165,
+  "name": "First thoracic vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 9187,
+  "name": "Second thoracic vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 9209,
+  "name": "Third thoracic vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 9248,
+  "name": "Fourth thoracic vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 9922,
+  "name": "Fifth thoracic vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 9945,
+  "name": "Sixth thoracic vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 9968,
+  "name": "Seventh thoracic vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 9991,
+  "name": "Eighth thoracic vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 10014,
+  "name": "Ninth thoracic vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 10037,
+  "name": "Tenth thoracic vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 10059,
+  "name": "Eleventh thoracic vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 10081,
+  "name": "Twelfth thoracic vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 13072,
+  "name": "First lumbar vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 13073,
+  "name": "Second lumbar vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 13074,
+  "name": "Third lumbar vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 13075,
+  "name": "Fourth lumbar vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 13076,
+  "name": "Fifth lumbar vertebra",
+  "region": "spine"
+ },
+ {
+  "id": 16202,
+  "name": "Sacrum",
+  "region": "spine"
+ },
+ {
+  "id": 8472,
+  "name": "Left tenth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8445,
+  "name": "Right tenth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8310,
+  "name": "Left eighth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8202,
+  "name": "Left sixth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 7909,
+  "name": "Right third rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8229,
+  "name": "Right seventh rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8093,
+  "name": "Left fifth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8175,
+  "name": "Right sixth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8012,
+  "name": "Left second rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8256,
+  "name": "Left seventh rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8066,
+  "name": "Right fifth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8283,
+  "name": "Right eighth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 7957,
+  "name": "Right fourth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 7987,
+  "name": "Left first rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8039,
+  "name": "Left third rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8534,
+  "name": "Left twelfth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8533,
+  "name": "Right twelfth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8531,
+  "name": "Right eleventh rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8532,
+  "name": "Left eleventh rib",
+  "region": "thorax"
+ },
+ {
+  "id": 7882,
+  "name": "Right second rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8364,
+  "name": "Right ninth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8391,
+  "name": "Left ninth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 7857,
+  "name": "Right first rib",
+  "region": "thorax"
+ },
+ {
+  "id": 8148,
+  "name": "Left fourth rib",
+  "region": "thorax"
+ },
+ {
+  "id": 7486,
+  "name": "Manubrium",
+  "region": "thorax"
+ },
+ {
+  "id": 7487,
+  "name": "Body of sternum",
+  "region": "thorax"
+ },
+ {
+  "id": 7488,
+  "name": "Xiphoid process",
+  "region": "thorax"
+ },
+ {
+  "id": 13323,
+  "name": "Left clavicle",
+  "region": "shoulder"
+ },
+ {
+  "id": 13322,
+  "name": "Right clavicle",
+  "region": "shoulder"
+ },
+ {
+  "id": 13396,
+  "name": "Left scapula",
+  "region": "shoulder"
+ },
+ {
+  "id": 13395,
+  "name": "Right scapula",
+  "region": "shoulder"
+ },
+ {
+  "id": 23131,
+  "name": "Left humerus",
+  "region": "arm"
+ },
+ {
+  "id": 23130,
+  "name": "Right humerus",
+  "region": "arm"
+ },
+ {
+  "id": 23465,
+  "name": "Left radius",
+  "region": "arm"
+ },
+ {
+  "id": 23464,
+  "name": "Right radius",
+  "region": "arm"
+ },
+ {
+  "id": 23468,
+  "name": "Left ulna",
+  "region": "arm"
+ },
+ {
+  "id": 23467,
+  "name": "Right ulna",
+  "region": "arm"
+ },
+ {
+  "id": 24436,
+  "name": "Left scaphoid",
+  "region": "hand"
+ },
+ {
+  "id": 24435,
+  "name": "Right scaphoid",
+  "region": "hand"
+ },
+ {
+  "id": 24438,
+  "name": "Left lunate",
+  "region": "hand"
+ },
+ {
+  "id": 24437,
+  "name": "Right lunate",
+  "region": "hand"
+ },
+ {
+  "id": 24440,
+  "name": "Left triquetral",
+  "region": "hand"
+ },
+ {
+  "id": 24439,
+  "name": "Right triquetral",
+  "region": "hand"
+ },
+ {
+  "id": 24442,
+  "name": "Left pisiform",
+  "region": "hand"
+ },
+ {
+  "id": 24441,
+  "name": "Right pisiform",
+  "region": "hand"
+ },
+ {
+  "id": 24444,
+  "name": "Left trapezium",
+  "region": "hand"
+ },
+ {
+  "id": 24443,
+  "name": "Right trapezium",
+  "region": "hand"
+ },
+ {
+  "id": 24445,
+  "name": "Left trapezoid",
+  "region": "hand"
+ },
+ {
+  "id": 23725,
+  "name": "Right trapezoid",
+  "region": "hand"
+ },
+ {
+  "id": 24447,
+  "name": "Left capitate",
+  "region": "hand"
+ },
+ {
+  "id": 24446,
+  "name": "Right capitate",
+  "region": "hand"
+ },
+ {
+  "id": 24449,
+  "name": "Left hamate",
+  "region": "hand"
+ },
+ {
+  "id": 24448,
+  "name": "Right hamate",
+  "region": "hand"
+ },
+ {
+  "id": 24465,
+  "name": "Left first metacarpal bone",
+  "region": "hand"
+ },
+ {
+  "id": 24464,
+  "name": "Right first metacarpal bone",
+  "region": "hand"
+ },
+ {
+  "id": 24467,
+  "name": "Left second metacarpal bone",
+  "region": "hand"
+ },
+ {
+  "id": 24466,
+  "name": "Right second metacarpal bone",
+  "region": "hand"
+ },
+ {
+  "id": 24469,
+  "name": "Left third metacarpal bone",
+  "region": "hand"
+ },
+ {
+  "id": 24468,
+  "name": "Right third metacarpal bone",
+  "region": "hand"
+ },
+ {
+  "id": 24471,
+  "name": "Left fourth metacarpal bone",
+  "region": "hand"
+ },
+ {
+  "id": 24470,
+  "name": "Right fourth metacarpal bone",
+  "region": "hand"
+ },
+ {
+  "id": 24473,
+  "name": "Left fifth metacarpal bone",
+  "region": "hand"
+ },
+ {
+  "id": 24472,
+  "name": "Right fifth metacarpal bone",
+  "region": "hand"
+ },
+ {
+  "id": 24452,
+  "name": "Proximal phalanx of right middle finger",
+  "region": "hand"
+ },
+ {
+  "id": 24456,
+  "name": "Middle phalanx of right middle finger",
+  "region": "hand"
+ },
+ {
+  "id": 23938,
+  "name": "Middle phalanx of left index finger",
+  "region": "hand"
+ },
+ {
+  "id": 24459,
+  "name": "Distal phalanx of right thumb",
+  "region": "hand"
+ },
+ {
+  "id": 24453,
+  "name": "Proximal phalanx of right ring finger",
+  "region": "hand"
+ },
+ {
+  "id": 71908,
+  "name": "Proximal phalanx of left middle finger",
+  "region": "hand"
+ },
+ {
+  "id": 24460,
+  "name": "Distal phalanx of right index finger",
+  "region": "hand"
+ },
+ {
+  "id": 23957,
+  "name": "Distal phalanx of left ring finger",
+  "region": "hand"
+ },
+ {
+  "id": 24462,
+  "name": "Distal phalanx of right ring finger",
+  "region": "hand"
+ },
+ {
+  "id": 24458,
+  "name": "Middle phalanx of right little finger",
+  "region": "hand"
+ },
+ {
+  "id": 66791,
+  "name": "Proximal phalanx of left little finger",
+  "region": "hand"
+ },
+ {
+  "id": 23944,
+  "name": "Middle phalanx of left little finger",
+  "region": "hand"
+ },
+ {
+  "id": 71915,
+  "name": "Proximal phalanx of left index finger",
+  "region": "hand"
+ },
+ {
+  "id": 23953,
+  "name": "Distal phalanx of left index finger",
+  "region": "hand"
+ },
+ {
+  "id": 24461,
+  "name": "Distal phalanx of right middle finger",
+  "region": "hand"
+ },
+ {
+  "id": 24457,
+  "name": "Middle phalanx of right ring finger",
+  "region": "hand"
+ },
+ {
+  "id": 24455,
+  "name": "Middle phalanx of right index finger",
+  "region": "hand"
+ },
+ {
+  "id": 24454,
+  "name": "Proximal phalanx of right little finger",
+  "region": "hand"
+ },
+ {
+  "id": 24451,
+  "name": "Proximal phalanx of right index finger",
+  "region": "hand"
+ },
+ {
+  "id": 23955,
+  "name": "Distal phalanx of left middle finger",
+  "region": "hand"
+ },
+ {
+  "id": 65470,
+  "name": "Proximal phalanx of left thumb",
+  "region": "hand"
+ },
+ {
+  "id": 23959,
+  "name": "Distal phalanx of left little finger",
+  "region": "hand"
+ },
+ {
+  "id": 23942,
+  "name": "Middle phalanx of left ring finger",
+  "region": "hand"
+ },
+ {
+  "id": 23951,
+  "name": "Distal phalanx of left thumb",
+  "region": "hand"
+ },
+ {
+  "id": 23940,
+  "name": "Middle phalanx of left middle finger",
+  "region": "hand"
+ },
+ {
+  "id": 24463,
+  "name": "Distal phalanx of right little finger",
+  "region": "hand"
+ },
+ {
+  "id": 71916,
+  "name": "Proximal phalanx of left ring finger",
+  "region": "hand"
+ },
+ {
+  "id": 24450,
+  "name": "Proximal phalanx of right thumb",
+  "region": "hand"
+ },
+ {
+  "id": 16587,
+  "name": "Left hip bone",
+  "region": "pelvis"
+ },
+ {
+  "id": 16586,
+  "name": "Right hip bone",
+  "region": "pelvis"
+ },
+ {
+  "id": 24475,
+  "name": "Left femur",
+  "region": "leg"
+ },
+ {
+  "id": 24474,
+  "name": "Right femur",
+  "region": "leg"
+ },
+ {
+  "id": 24487,
+  "name": "Left patella",
+  "region": "leg"
+ },
+ {
+  "id": 24486,
+  "name": "Right patella",
+  "region": "leg"
+ },
+ {
+  "id": 24478,
+  "name": "Left tibia",
+  "region": "leg"
+ },
+ {
+  "id": 24477,
+  "name": "Right tibia",
+  "region": "leg"
+ },
+ {
+  "id": 24481,
+  "name": "Left fibula",
+  "region": "leg"
+ },
+ {
+  "id": 24480,
+  "name": "Right fibula",
+  "region": "leg"
+ },
+ {
+  "id": 24498,
+  "name": "Left calcaneus",
+  "region": "foot"
+ },
+ {
+  "id": 24497,
+  "name": "Right calcaneus",
+  "region": "foot"
+ },
+ {
+  "id": 24483,
+  "name": "Left talus",
+  "region": "foot"
+ },
+ {
+  "id": 24482,
+  "name": "Right talus",
+  "region": "foot"
+ },
+ {
+  "id": 24501,
+  "name": "Navicular bone of left foot",
+  "region": "foot"
+ },
+ {
+  "id": 24500,
+  "name": "Navicular bone of right foot",
+  "region": "foot"
+ },
+ {
+  "id": 24529,
+  "name": "Left cuboid bone",
+  "region": "foot"
+ },
+ {
+  "id": 24528,
+  "name": "Right cuboid bone",
+  "region": "foot"
+ },
+ {
+  "id": 24522,
+  "name": "Left medial cuneiform bone",
+  "region": "foot"
+ },
+ {
+  "id": 24521,
+  "name": "Right medial cuneiform bone",
+  "region": "foot"
+ },
+ {
+  "id": 24524,
+  "name": "Left intermediate cuneiform bone",
+  "region": "foot"
+ },
+ {
+  "id": 24523,
+  "name": "Right intermediate cuneiform bone",
+  "region": "foot"
+ },
+ {
+  "id": 24526,
+  "name": "Left lateral cuneiform bone",
+  "region": "foot"
+ },
+ {
+  "id": 24525,
+  "name": "Right lateral cuneiform bone",
+  "region": "foot"
+ },
+ {
+  "id": 24508,
+  "name": "Left first metatarsal bone",
+  "region": "foot"
+ },
+ {
+  "id": 24507,
+  "name": "Right first metatarsal bone",
+  "region": "foot"
+ },
+ {
+  "id": 24510,
+  "name": "Left second metatarsal bone",
+  "region": "foot"
+ },
+ {
+  "id": 24509,
+  "name": "Right second metatarsal bone",
+  "region": "foot"
+ },
+ {
+  "id": 24512,
+  "name": "Left third metatarsal bone",
+  "region": "foot"
+ },
+ {
+  "id": 24511,
+  "name": "Right third metatarsal bone",
+  "region": "foot"
+ },
+ {
+  "id": 24514,
+  "name": "Left fourth metatarsal bone",
+  "region": "foot"
+ },
+ {
+  "id": 24513,
+  "name": "Right fourth metatarsal bone",
+  "region": "foot"
+ },
+ {
+  "id": 24516,
+  "name": "Left fifth metatarsal bone",
+  "region": "foot"
+ },
+ {
+  "id": 24515,
+  "name": "Right fifth metatarsal bone",
+  "region": "foot"
+ },
+ {
+  "id": 32655,
+  "name": "Distal phalanx of left third toe",
+  "region": "foot"
+ },
+ {
+  "id": 32635,
+  "name": "Proximal phalanx of left second toe",
+  "region": "foot"
+ },
+ {
+  "id": 32651,
+  "name": "Distal phalanx of left big toe",
+  "region": "foot"
+ },
+ {
+  "id": 32657,
+  "name": "Distal phalanx of left fourth toe",
+  "region": "foot"
+ },
+ {
+  "id": 32659,
+  "name": "Distal phalanx of left little toe",
+  "region": "foot"
+ },
+ {
+  "id": 32645,
+  "name": "Middle phalanx of left third toe",
+  "region": "foot"
+ },
+ {
+  "id": 32652,
+  "name": "Distal phalanx of right second toe",
+  "region": "foot"
+ },
+ {
+  "id": 32644,
+  "name": "Middle phalanx of right third toe",
+  "region": "foot"
+ },
+ {
+  "id": 43253,
+  "name": "Proximal phalanx of right big toe",
+  "region": "foot"
+ },
+ {
+  "id": 43254,
+  "name": "Proximal phalanx of left big toe",
+  "region": "foot"
+ },
+ {
+  "id": 32636,
+  "name": "Proximal phalanx of right third toe",
+  "region": "foot"
+ },
+ {
+  "id": 32646,
+  "name": "Middle phalanx of right fourth toe",
+  "region": "foot"
+ },
+ {
+  "id": 32647,
+  "name": "Middle phalanx of left fourth toe",
+  "region": "foot"
+ },
+ {
+  "id": 32643,
+  "name": "Middle phalanx of left second toe",
+  "region": "foot"
+ },
+ {
+  "id": 32654,
+  "name": "Distal phalanx of right third toe",
+  "region": "foot"
+ },
+ {
+  "id": 32640,
+  "name": "Proximal phalanx of right little toe",
+  "region": "foot"
+ },
+ {
+  "id": 32641,
+  "name": "Proximal phalanx of left little toe",
+  "region": "foot"
+ },
+ {
+  "id": 32637,
+  "name": "Proximal phalanx of left third toe",
+  "region": "foot"
+ },
+ {
+  "id": 32653,
+  "name": "Distal phalanx of left second toe",
+  "region": "foot"
+ },
+ {
+  "id": 32638,
+  "name": "Proximal phalanx of right fourth toe",
+  "region": "foot"
+ },
+ {
+  "id": 32639,
+  "name": "Proximal phalanx of left fourth toe",
+  "region": "foot"
+ },
+ {
+  "id": 32650,
+  "name": "Distal phalanx of right big toe",
+  "region": "foot"
+ },
+ {
+  "id": 32658,
+  "name": "Distal phalanx of right little toe",
+  "region": "foot"
+ },
+ {
+  "id": 32634,
+  "name": "Proximal phalanx of right second toe",
+  "region": "foot"
+ },
+ {
+  "id": 230986,
+  "name": "Middle phalanx of right little toe",
+  "region": "foot"
+ },
+ {
+  "id": 230988,
+  "name": "Middle phalanx of left little toe",
+  "region": "foot"
+ },
+ {
+  "id": 32656,
+  "name": "Distal phalanx of right fourth toe",
+  "region": "foot"
+ },
+ {
+  "id": 32642,
+  "name": "Middle phalanx of right second toe",
+  "region": "foot"
+ }
+]
